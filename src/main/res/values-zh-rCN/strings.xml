@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">使用圆形图标</string>
+    <string name="xposeddescription">启用/禁用 Android 7.1 的圆形图标</string>
+    <string name="pref_use_round_summ">重启生效</string>
+    <string name="pref_use_round">启用/禁用圆形图标</string>
+</resources>
